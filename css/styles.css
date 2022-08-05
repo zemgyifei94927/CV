@@ -1,0 +1,17 @@
+body {
+  background-color: #d1f6c1;
+}
+hr {
+  border-style: dotted none none none;
+  border-width: 7px;
+  border-color: grey;
+  width: 3%;
+}
+h1 {
+  color: #66BFBF;
+  font-family: fangsong;
+}
+h3 {
+  color: #66BFBF;
+  font-family: fantasy;
+}
